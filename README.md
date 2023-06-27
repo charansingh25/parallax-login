@@ -1,5 +1,6 @@
 # parallax-login
 ### a login page with parallax effects
+### https://charansingh25.github.io/parallax-login/
 
 - used data-depth-x and data-depth-y for parallax effects
 - just added few images with relative position
