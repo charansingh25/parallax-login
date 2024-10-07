@@ -3,7 +3,7 @@ A stylish login page featuring smooth parallax effects, built using HTML and CSS
 
 <div class="image-container">
     <img src="/public/image-2.png" width="30%" alt="Image 2">
-    <img src="/public/image-1.png" width="60%" alt="Image 1">
+    <img src="/public/image-1.png" width="66%" alt="Image 1">
 </div>
 
 ### Live Demo
