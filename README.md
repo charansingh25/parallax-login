@@ -1,8 +1,10 @@
 # Parallax Login Page
 A stylish login page featuring smooth parallax effects, built using HTML and CSS.
 
-<img src="/public/image-2.png" width="30%" >
-<img src="/public/image-1.png" width="60%" >
+<div class="image-container">
+    <img src="/public/image-2.png" width="30%" alt="Image 2">
+    <img src="/public/image-1.png" width="60%" alt="Image 1">
+</div>
 
 ### Live Demo
 Check out the live version of the project [parallax-login-page](https://charansingh25.github.io/parallax-login/).
