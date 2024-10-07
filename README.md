@@ -18,12 +18,14 @@ Check out the live version of the project [parallax-login-page](https://charansi
 
 To run this project on your local machine:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/charansingh25/parallax-login.git
-   cd parallax-login
-2. **Open the project:** 
-   Open the `index.html` file in your browser (or using VS Code Live Server)
+**Clone the repository:**
+```bash
+git clone https://github.com/charansingh25/parallax-login.git
+cd parallax-login
+```
+
+**Open the project:** 
+Open the `index.html` file in your browser (or using VS Code Live Server)
 
 Then open http://localhost:3000 in your browser!.
 
