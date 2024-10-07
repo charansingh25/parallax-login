@@ -1,11 +1,11 @@
 # Parallax Login Page
 A stylish login page featuring smooth parallax effects, built using HTML and CSS.
 
-<img src="https://github.com/charansingh25/parallax-login/assets/104901834/43d348b0-e7ae-431c-9a60-a52b7c397177" width="30%" >
-<img src="https://github.com/charansingh25/parallax-login/assets/104901834/90b30760-4cc7-43b5-8ee3-32911bb911cd" width="66%" >
+<img src="/public/image-2.png" width="30%" >
+<img src="/public/image-1.png" width="66%" >
 
 ### Live Demo
-Check out the live version of the project [here](https://charansingh25.github.io/parallax-login/).
+Check out the live version of the project [parallax-login-page](https://charansingh25.github.io/parallax-login/).
 
 ### Features
 - **Parallax Effects:** Utilizes `data-depth-x` and `data-depth-y` attributes for creating a parallax effect on the login page elements.
@@ -24,6 +24,11 @@ To run this project on your local machine:
    Open the `index.html` file in your browser (or using VS Code Live Server)
 
 Then open http://localhost:3000 in your browser!.
+
+### Usage
+
+This project can be a starting point for creating more complex login pages with dynamic parallax effects or 
+integrated with backend authentication systems.
 
 ### Author
 - Github - [charansingh25](https://github.com/charansingh25)
